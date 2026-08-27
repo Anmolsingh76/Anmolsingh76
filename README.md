@@ -23,7 +23,7 @@ Core Concepts:
 Object-Oriented Programming (OOP), Data Structures & Algorithms
 
 Tools & IDEs:
-Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
+Android Studio, Visual Studio Code, Eclipse, IntelliJ, Git, Firebase Console
  
 
 ### Connect With Me
