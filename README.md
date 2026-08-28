@@ -1,43 +1,119 @@
-## About Me
 
-I am Anmol Singh  passionate Java developer with a strong foundation in Object-Oriented Programming and Data Structures. I have hands-on experience with Spring Boot, Hibernate, and database management using MySQL and PostgreSQL. I am also familiar with frontend technologies like HTML and CSS and has worked with Firebase services. I am eager to build scalable applications and continuously improve his development skills.
- 
-## Technical Skills
 
-Programming Languages:
-Java, Python (Basic), JavaScript (Basic), SQL
+# 👋 Hey, I'm Anmol Singh
 
-Frameworks & Technologies:
-Spring Boot, Hibernate (JPA)
+### 💻 CSE Student | Java Developer | Web Developer
 
-Databases:
-MySQL, PostgreSQL, Firebase (Firestore, Realtime Database)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+things+with+code+%F0%9F%9A%80;Learning+Java+%26+Backend+Development;Turning+ideas+into+projects+%E2%9C%A8" />
+</p>
 
-Frontend Development:
-HTML, CSS, Material Design, XML Layouts
+---
 
-Backend & Services:
-RESTful APIs, Firebase Authentication, Cloud Storage
+## 🚀 About Me
 
-Core Concepts:
-Object-Oriented Programming (OOP), Data Structures & Algorithms
+- 🎓 B.Tech Computer Science student
+- 💻 Currently focused on **Java FullStack Development**
+- 🌱 Learning **Backend Development with SpringBoot & Hibernet(Data JPA)**
+- 🔨 I enjoy building projects and experimenting with new technologies
+- 🧠 Always learning, always improving
+- ⚡ Fun fact: I like turning ideas into working projects
 
-Tools & IDEs:
-Android Studio, Visual Studio Code, Eclipse, IntelliJ, Git, Firebase Console
- 
+---
 
-### Connect With Me
+## 🛠️ Tech Stack
 
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🚗 Car Rental Website
+A modern web application for exploring and renting cars.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🌦️ Weather Application
+A weather application that displays weather information using an API.
+
+**Tech:** HTML • CSS • JavaScript • API
+
+### ☕ Java Projects
+A collection of Java programs demonstrating:
+
+- OOP
+- Classes & Objects
+- Inheritance
+- Performing Crud Operation with(DTO)
+- Producer Consumer Problem
+- Exception Handling
+- Database Connectivity
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-singh-7895b33ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kunainta_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
 </p>
 
+## 🧠My Learning Journey
+
+```text
+
+Web Development
+  ├── HTML
+  ├── CSS
+  ├── JavaScript
+  └── APIs
+
+ Core Java
+  ├── OOP
+  ├── Collections
+  ├── Exception Handling
+
+ Advance Java 
+  ├── JDBC
+  ├── Servlet+JSP
+  └── Databases(Mysql)
+
+Currently Learning 
+  ├── Spring
+  ├── SpringBoot
+  ├── Hibernet
+  ├── Data(JPA)
+  └── REST APIs
 ---
+```
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmol-singh-7895b33ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
