@@ -25,7 +25,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp," />
 </p>
 
 ### 🌐 Web Development
@@ -33,9 +33,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+### ⚙️ Java Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
+
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
 </p>
 
 ---
@@ -65,23 +70,6 @@ A collection of Java programs demonstrating:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-<p align="center">
-  <a href="https://www.linkedin.com/in/anmol-singh-7895b33ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-</p>
 
 ## 🧠My Learning Journey
 
